@@ -45,7 +45,7 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-6 pt-8">
             <a
-              href="https://github.com"
+              href="https://github.com/akhilchiluvari"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors p-2"
