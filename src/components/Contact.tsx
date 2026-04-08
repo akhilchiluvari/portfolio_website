@@ -29,9 +29,9 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com', color: 'hover:text-blue-400' },
+    { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/akhil-chiluvari', color: 'hover:text-blue-400' },
     { name: 'Twitter', icon: Twitter, url: 'https://x.com/Chiluvari2Akhil', color: 'hover:text-blue-400' },
-    { name: 'GitHub', icon: Github, url: 'https://github.com/Akhilchiluvari', color: 'hover:text-white' },
+    { name: 'GitHub', icon: Github, url: 'https://github.com/akhilchiluvari', color: 'hover:text-white' },
     { name: 'Email', icon: Mail, url: 'mailto:akhilchiluvari@gmail.com', color: 'hover:text-teal-400' },
   ];
 
